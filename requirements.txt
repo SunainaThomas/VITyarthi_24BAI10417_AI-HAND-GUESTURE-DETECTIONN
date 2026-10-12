@@ -1,0 +1,7 @@
+opencv-python
+# mp.solutions (used in main.py) was removed from newer MediaPipe releases.
+# 0.10.14 supports Python 3.9 - 3.12.
+mediapipe==0.10.14
+numpy<2
+pyautogui
+pytest
